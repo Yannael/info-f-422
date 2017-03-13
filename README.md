@@ -4,16 +4,18 @@ This page contains the material for the hands-on classes of ULB [INFO-F-422](htt
 
 ## Getting ready with R notebooks
 
-The use of the notebook requires to install:
+The use of the notebooks requires to install:
 
 * Jupyter Notebooks, see installation instructions [here](http://jupyter.org/install.html). The simplest way is to rely on Anaconda. The `jupyter` program is in the `bin`folder of anaconda. Add the folder to your PATH. 
 * The IRkernel, see installation instructions [here](https://github.com/IRkernel/IRkernel).
 
-Once installed, you can start jupyter notebook with the command
+Once installed, clone this repository and start jupyter notebook:
 
 ```
+git clone https://github.com/Yannael/info-f-422
+cd info-f-422
 jupyter notebook
 ```
 
-from the terminal.
+
 
