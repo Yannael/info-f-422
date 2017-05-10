@@ -4,6 +4,7 @@ All the instructions are in ProjectINFOF422-2017.pdf.
 
 Accepted packages:
 
+* corrplot
 * data.tables
 * dplyr
 * dummies
@@ -13,6 +14,7 @@ Accepted packages:
 * lazy
 * MASS
 * nnet
+* plotly
 * plyr
 * ridge
 * rpart
