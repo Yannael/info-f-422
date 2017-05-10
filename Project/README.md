@@ -2,7 +2,7 @@
 
 All the instructions are in ProjectINFOF422-2017.pdf.
 
-List of accepted packages:
+Accepted packages:
 
 * data.tables
 * dplyr
@@ -18,3 +18,9 @@ List of accepted packages:
 * rpart
 * stats
 * tree
+
+Packages not accepted:
+
+* caret
+* randomForest
+* xgboost
